@@ -57,3 +57,5 @@ Explanation: Added an image to the project, possibly a screenshot or illustratio
 
 After making the changes in readme file using update-readme branch for pull request
 
+## Screenshot of pull request
+![alt text](<Screenshot 2025-05-05 164810.png>)
