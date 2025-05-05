@@ -56,9 +56,3 @@ Screenshot of GitLog:
 ![GitLog](Gitlog.png)
 
 
-
-After making the changes in readme file using feature branch
-
-
-Screenshot of Pull Request:
-![Merge](Merge.png)
