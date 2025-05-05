@@ -54,3 +54,8 @@ Explanation: Added an image to the project, possibly a screenshot or illustratio
 
 Screenshot of GitLog:
 ![GitLog](Gitlog.png)
+
+
+
+After editig the README File:
+Using the update-readme Branch
