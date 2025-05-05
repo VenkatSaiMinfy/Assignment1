@@ -59,3 +59,4 @@ Screenshot of GitLog:
 
 
 After making the changes in readme file using feature branch for pull request
+this readme file is changed by master branch for pull request merge
