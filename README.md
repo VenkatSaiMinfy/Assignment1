@@ -59,3 +59,5 @@ Screenshot of GitLog:
 
 After editig the README File:
 Using the update-readme Branch
+After editing the README:
+Using the master branch
