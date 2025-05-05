@@ -57,10 +57,3 @@ Explanation: Added an image to the project, possibly a screenshot or illustratio
 
 
 this readme file is changed by master branch for pull request merge
-
-
-## Screenshot of Pull Request:
-![Pull Request](PullRequest.png)
-
-## Screenshot of Successfull Pull Request and Merge
-![Successfull Pull Request and Merge](Successfull_pull_request_and_merge-1.png)
