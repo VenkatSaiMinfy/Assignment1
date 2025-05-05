@@ -53,4 +53,4 @@ Explanation: Added an image to the project, possibly a screenshot or illustratio
 
 
 Screenshot of GitLog:
-![GitLog](GitLog.png)
+![GitLog](Gitlog.png)
